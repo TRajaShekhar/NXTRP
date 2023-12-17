@@ -1,0 +1,24 @@
+/* Write your code here. */
+.head-container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background-color: aqua;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  margin-top: 40px;
+  height: 25vh;
+  width: 20vw;
+  text-align: center;
+}
